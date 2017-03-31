@@ -1,1 +1,1 @@
-# test-github-service-clone
+Repository for GitHub clone testing
